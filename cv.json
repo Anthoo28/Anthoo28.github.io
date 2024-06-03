@@ -171,6 +171,7 @@
 
   "projects": [
     {
+      "url": "https://github.com/Anthoo28/Backend-Rojas-Market-Ica",
       "name": "Rojas-Market-Ica",
       "isActive": true,
       "description": "Gestion interna de un minimarket en la ciudad de Ica",
@@ -181,6 +182,7 @@
       "github": "https://github.com/Anthoo28/Backend-Rojas-Market-Ica"
     },
     {
+      "url": "https://github.com/Anthoo28/Medical-Appointments-Web-Backend",
       "name": "Citas Medicas",
       "isActive": true,
       "description": "Gestion de citas medicas para una clinica de la ciudad de Ica",
@@ -192,6 +194,7 @@
       "github": "https://github.com/Anthoo28/Medical-Appointments-Web-Backend"
     },
     {
+      "url": "https://github.com/Anthoo28/microservices-backend",
       "name": "Gestion de Vuelos",
       "isActive": true,
       "description": "Microservicios para gestionar usuarios y viajes",
@@ -204,6 +207,7 @@
       "github": "https://github.com/Anthoo28/microservices-backend"
     },
     {
+      "url": "https://github.com/Anthoo28/",
       "name": "Chat Bot",
       "isActive": true,
       "description": "Chat bot de WhatsApp para problemas de salud mental",
@@ -215,6 +219,7 @@
       "github": "https://github.com/Anthoo28/"
     },
     {
+      "url":"https://github.com/Anthoo28/Basic-Api-Weather",
       "name": "Api del Clima",
       "isActive": true,
       "description": "Api para obtener el clima de cualquier ciudad del mundo",
