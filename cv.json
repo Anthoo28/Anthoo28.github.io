@@ -1,187 +1,158 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Cesar Andia Ascama",
+    "label": "Full Stack Developer Junior",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "zarek2804@gmail.com",
+    "phone": "+51 955632773",
+    "url": "",
+    "summary": "Soy estudiante de Ingeniería de Sistemas en Perú, con 22 años de edad. Tengo habilidades en desarrollo backend y gestión de bases de datos. Me apasiona resolver problemas complejos y tengo experiencia en diseño, desarrollo e implementación de soluciones de software escalables. Soy analítico y trabajo bien en equipos multidisciplinarios.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "11001",
+      "city": "ICA",
+      "countryCode": "PE",
+      "region": "Perú"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "cesar-andia",
+        "url": "https://www.linkedin.com/in/cesar-andia/"
       },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
-      },
+     
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "anthoo28",
+        "url": "https://github.com/Anthoo28"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Microservicio para Gestión de Reservas de Viajes y Usuarios",
+      "position": "Desarrollador Backend",
+      "url": "",
+      "startDate": "2024-05-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Desarrollo de microservicios en Java con Spring que manejar reservas de viajes y gestión de usuarios. Garantizando la escalabilidad y mantenibilidad del servicio mediante prácticas de desarrollo ágil y pruebas automatizadas, utilizando API Gateway.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "Gestion de Citas Medicas",
+      "position": "Desarrollador Backend",
+      "url": "",
+      "startDate": "2024-04-01",
+      "endDate": null,
+      "summary": "Desarrollo un sistema backend para la gestión de citas médicas, incluyendo programación de citas y gestión de pacientes. Implemento funcionalidades para el manejo de horarios de médicos y notificaciones de recordatorios.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Gestion de Mini Market",
+      "position": "Desarrollador Backend",
+      "startDate": "2023-03-01",
+      "endDate": "2023-07-01",
+      "summary": "Diseñé y desarrollé la infraestructura backend para un sistema de gestión de un minimarket, implementando funcionalidades como gestión de inventario y generación de reportes. Aseguré la integración eficiente con bases de datos MySQL para manejo de datos y consultas optimizadas.",
       "highlights": [
         "Started the company"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
+    "institution": "Universidad Tecnologica del Peru",
+    "url": "https://www.utp.edu.pe/web/",
+    "area": "Ingeniero de Sistemas",
+    "studyType": "Estudiante",
+    "startDate": "2020-04-01",
+    "endDate": null,
+    "score": "4.0"
+    
   }],
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Medio",
       "keywords": [
         "Desarrollo Web", "Frontend"
       ]
     },
     {
+      "name": "Mongo",
+      "level": "Medio",
+      "keywords": [
+        "Backend", "NoSQL", "Almacenamiento de Datos"
+      ]
+    },
+    {
       "name": "CSS",
-      "level": "Master",
+      "level": "Medio",
       "keywords": [
         "Desarrollo Web", "Frontend", "Diseño Responsive"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "Medio",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
       "name": "Tailwind",
-      "level": "Avanzado",
+      "level": "Basico",
       "keywords": [
         "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "Avanzado",
+      "level": "Medio",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
-      "level": "Avanzado",
+      "level": "Medio",
       "keywords": [
         "Desarrollo Web", "Backend", "JavaScript", "Servidor"
       ]
     },
     {
       "name": "MySQL",
-      "level": "Avanzado",
+      "level": "Medio",
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
       ]
     },
     {
       "name": "Git",
-      "level": "Avanzado",
+      "level": "Medio",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente"
       ]
     },
     {
       "name": "GitHub",
-      "level": "Avanzado",
+      "level": "Medio",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente", "Git"
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Avanzado",
+      "name": "Express",
+      "level": "Medio",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web", "Frontend", "Node Framework", "Backend"
       ]
     },
     {
-      "name": "React",
-      "level": "Avanzado",
+      "name": "Angular",
+      "level": "Medio",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
@@ -194,82 +165,65 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Medio"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Rojas-Market-Ica",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Gestion interna de un minimarket en la ciudad de Ica",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Java & Spring Boot",
+        "Culminado con exito"
       ],
-      "url": "https://mars.codes"
+      "github": "https://github.com/Anthoo28/Backend-Rojas-Market-Ica"
     },
     {
-      "name": "AdventJS",
+      "name": "Citas Medicas",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Gestion de citas medicas para una clinica de la ciudad de Ica",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
+        "En desarrollo",
+        "express",
         "JavaScript & TypeScript"
       ],
-      "url": "https://adventjs.dev"
+      "github": "https://github.com/Anthoo28/Medical-Appointments-Web-Backend"
     },
     {
-      "name": "Codember",
+      "name": "Gestion de Vuelos",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Microservicios para gestionar usuarios y viajes",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "microservicios",
+        "En desarrollo",
+        "Java & Spring Boot",
+        "Docker & Kubernetes"
       ],
-      "url": "https://codember.dev"
+      "github": "https://github.com/Anthoo28/microservices-backend"
     },
     {
-      "name": "codi.link",
+      "name": "Chat Bot",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Chat bot de WhatsApp para problemas de salud mental",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Culminado con exito",
+        "Python & Flask",
+        "Api de WhatsApp"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "github": " "
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Api del Clima",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "Api para obtener el clima de cualquier ciudad del mundo",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "Node & Express",
+        "Api Weather "
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "github": "https://github.com/Anthoo28/Basic-Api-Weather"
     }
+    
   ]
 }
