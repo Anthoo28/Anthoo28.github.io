@@ -6,7 +6,7 @@
     "email": "zarek2804@gmail.com",
     "phone": "+51 955632773",
     "url": "",
-    "summary": "Soy estudiante de Ingeniería de Sistemas en Perú, con 22 años de edad. Tengo habilidades en desarrollo backend y gestión de bases de datos. Me apasiona resolver problemas complejos y tengo experiencia en diseño, desarrollo e implementación de soluciones de software escalables. Soy analítico y trabajo bien en equipos multidisciplinarios.",
+    "summary": "Soy estudiante de Ingeniería de Sistemas en Perú, con 22 años de edad. Tengo habilidades en desarrollo fullstack y gestión de bases de datos. Me apasiona resolver problemas complejos y tengo experiencia en diseño, desarrollo e implementación de soluciones de software escalables. Soy analítico y trabajo bien en equipos multidisciplinarios.",
     "location": {
       "address": "",
       "postalCode": "11001",
@@ -45,8 +45,8 @@
       "position": "Desarrollador Backend",
       "url": "",
       "startDate": "2024-04-01",
-      "endDate": null,
-      "summary": "Desarrollo un sistema backend para la gestión de citas médicas, incluyendo programación de citas y gestión de pacientes. Implemento funcionalidades para el manejo de horarios de médicos y notificaciones de recordatorios.",
+      "endDate": "2024-07-10",
+      "summary": "Desarrollé la parte del backend para la gestión de citas médicas, incluyendo programación de citas y gestión de pacientes. Implementé funcionalidades para el manejo de horarios de médicos y notificaciones de recordatorios.",
       "highlights": [
         "Started the company"
       ]
