@@ -52,6 +52,17 @@
       ]
     },
     {
+      "name": "WebApp Mini Market",
+      "position": "Desarrollador Frontend",
+      "url": "",
+      "startDate": "2023-07-30",
+      "endDate": "2023-12-20",
+      "summary": "Desarrolle la parte del frontend para una aplicación web de un minimarket, implementando un diseño responsive y funcionalidades como carrito de compras y gestión de productos. Aseguré la integración eficiente con el backend mediante API REST.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
       "name": "Gestion de Mini Market",
       "position": "Desarrollador Backend",
       "startDate": "2023-03-01",
@@ -182,6 +193,17 @@
       "github": "https://github.com/Anthoo28/Backend-Rojas-Market-Ica"
     },
     {
+      "url": "https://github.com/Anthoo28/Frontend-Rojas-Market-Ica-",
+      "name": "Rojas-Market-Ica",
+      "isActive": true,
+      "description": "Creacion del frontend para un minimarket en la ciudad de Ica",
+      "highlights": [
+        "Angular & TypeScript",
+        "Culminado con exito"
+      ],
+      "github": "https://github.com/Anthoo28/Backend-Rojas-Market-Ica"
+    },
+    {
       "url": "https://github.com/Anthoo28/Medical-Appointments-Web-Backend",
       "name": "Citas Medicas",
       "isActive": true,
@@ -193,6 +215,7 @@
       ],
       "github": "https://github.com/Anthoo28/Medical-Appointments-Web-Backend"
     },
+    
     {
       "url": "https://github.com/Anthoo28/microservices-backend",
       "name": "Gestion de Vuelos",
