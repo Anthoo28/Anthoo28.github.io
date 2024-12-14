@@ -1,13 +1,12 @@
 {
   "basics": {
     "name": "Cesar Andia Ascama",
-    "label": "Full Stack Developer Junior",
+    "label": "Backend Developer & QA Junior",
     "image": "/me.webp",
     "email": "zarek2804@gmail.com",
     "phone": "+51 955632773",
     "url": "",
-    "summary": "Soy estudiante de Ingeniería de Sistemas en Perú, con 22 años de edad. Tengo habilidades en desarrollo fullstack y gestión de bases de datos. Me apasiona resolver problemas complejos y tengo experiencia en diseño, desarrollo e implementación de soluciones de software escalables. Soy analítico y trabajo bien en equipos multidisciplinarios.",
-    "location": {
+    "summary": "Ingeniero de Sistemas en Perú, con 22 años de edad. Experto en desarrollo backend, gestión de bases de datos y aseguramiento de la calidad. Tengo experiencia en soluciones escalables y mantenimiento de sistemas desarrollados en C#.  Trabajo bien en equipos, resolviendo problemas complejos con un enfoque analítico y detallado.",    "location": {
       "address": "",
       "postalCode": "11001",
       "city": "ICA",
@@ -30,48 +29,28 @@
   },
   "work": [
     {
-      "name": "Microservicio para Gestión de Reservas de Viajes y Usuarios",
+      "name": "Desarrollador Backend Freelance",
       "position": "Desarrollador Backend",
       "url": "",
-      "startDate": "2024-05-01",
-      "endDate": null,
+      "startDate": "2023/04/01",
+      "endDate": "2024-08-01",
       "summary": "Desarrollo de microservicios en Java con Spring que manejar reservas de viajes y gestión de usuarios. Garantizando la escalabilidad y mantenibilidad del servicio mediante prácticas de desarrollo ágil y pruebas automatizadas, utilizando API Gateway.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Gestion de Citas Medicas",
+      "name": "Asistente de Aseguramiento de la Calidad | Caja Ica",
       "position": "Desarrollador Backend",
       "url": "",
-      "startDate": "2024-04-01",
-      "endDate": "2024-07-10",
+      "startDate": "2024-08-02",
+      "endDate": null,
       "summary": "Desarrollé la parte del backend para la gestión de citas médicas, incluyendo programación de citas y gestión de pacientes. Implementé funcionalidades para el manejo de horarios de médicos y notificaciones de recordatorios.",
       "highlights": [
         "Started the company"
       ]
-    },
-    {
-      "name": "WebApp Mini Market",
-      "position": "Desarrollador Frontend",
-      "url": "",
-      "startDate": "2023-07-30",
-      "endDate": "2023-12-20",
-      "summary": "Desarrolle la parte del frontend para una aplicación web de un minimarket, implementando un diseño responsive y funcionalidades como carrito de compras y gestión de productos. Aseguré la integración eficiente con el backend mediante API REST.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Gestion de Mini Market",
-      "position": "Desarrollador Backend",
-      "startDate": "2023-03-01",
-      "endDate": "2023-07-01",
-      "summary": "Diseñé y desarrollé la infraestructura backend para un sistema de gestión de un minimarket, implementando funcionalidades como gestión de inventario y generación de reportes. Aseguré la integración eficiente con bases de datos MySQL para manejo de datos y consultas optimizadas.",
-      "highlights": [
-        "Started the company"
-      ]
     }
+
   ],
   "education": [{
     "institution": "Universidad Tecnologica del Peru",
@@ -79,7 +58,7 @@
     "area": "Ingeniero de Sistemas",
     "studyType": "Estudiante",
     "startDate": "2020-04-01",
-    "endDate": null,
+    "endDate": "2024-12-11",
     "score": "4.0"
     
   }],
